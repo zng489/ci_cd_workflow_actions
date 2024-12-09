@@ -3,7 +3,7 @@
 # ['python setup.py install', 'python setup.cfg install', 'pyproject.toml']
 # pip install pipreqs
 # python -m pipreqs.pipreqs
-
+# 
 name: finnhub
 email: zng489@hotmail.com
 password: finnhub
